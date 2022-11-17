@@ -1,6 +1,6 @@
-<center>
+<p align="center">
 <img src="static/O365Sprayer.png" width="50%">
-</center>
+</p>
 
 <h4 align="center">Enumerate & Spray O365 Accounts.</h4>
 
