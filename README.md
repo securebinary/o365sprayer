@@ -1,5 +1,8 @@
-<h4 align="center">Enumerate & Spray O365 Accounts.</h4>
+<center>
+<img src="static/O365Sprayer.png" width="50%">
+</center>
 
+<h4 align="center">Enumerate & Spray O365 Accounts.</h4>
 
 <p align="center">
 <a href="https://github.com/securebinary/o365sprayer/"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
